@@ -5,9 +5,4 @@ Git tracks changes of files
 
 that's amazing!
 
-creating a new branch is quick and simple    emmmmmmmmmmmmmm,wtf
-
---no-     wtf
-another test
-
-test stash
+creating a new branch is quick and simple 
